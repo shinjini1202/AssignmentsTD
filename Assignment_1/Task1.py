@@ -1,5 +1,5 @@
-first =int(input("Enter first name: "))
-second =int(input("Enter last name: "))
+first =int(input("Enter first number: "))
+second =int(input("Enter second number: "))
 print("Addition:",(first+second))
 print("Subtraction:",(first-second))
 print("Multiplication:",(first*second))
