@@ -14,4 +14,8 @@ Assignment 3
 
 Assignment 4  
 >>Task 1: Reading an existing sample.txt file line by line, adding a line number, and displaying "File does not exist" if the file is missing using the os module for checking.  
->>Task 2: Interacting with the user to get two separate inputs, writing the first input to output.txt in write mode (w), and then adding the second input to the file using append mode (a) and displaying the final file.  
+>>Task 2: Interacting with the user to get two separate inputs, writing the first input to output.txt in write mode (w), and then adding the second input to the file using append mode (a) and displaying the final file.
+
+Assignment 5  
+>>Task 1: The code effectively looks up a user-supplied key in a dictionary and shows the value that corresponds to it, or if the key is not found, it prints a "Student not found" message.  
+>>Task 2: A list is created and then using list indexing and slicing, the first 5 elements as well as their leverse order is displayed.   
