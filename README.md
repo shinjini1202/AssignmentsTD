@@ -11,3 +11,7 @@ Assignment 2
 Assignment 3  
 >>Task 1: Takes integer from user and defines a function named factorial that takes the user integer, checks for negativity and then proceeds to calculate and display the factorial of that number.  
 >>Task 2: Imports the math module and takes a float number from user and then uses functions from the math module to calculate Root, Log and Sine of the number and displays it.  
+
+Assignment 4  
+>>Task 1: Reading an existing sample.txt file line by line, adding a line number, and displaying "File does not exist" if the file is missing using the os module for checking.  
+>>Task 2: Interacting with the user to get two separate inputs, writing the first input to output.txt in write mode (w), and then adding the second input to the file using append mode (a) and displaying the final file.  
