@@ -8,4 +8,4 @@ if os.path.exists(FILE_NAME):
             line_number+=1
             print(f"Line {line_num}:{line.strip()}")
 else:
-    print("File does not exist")
+    print(f"Error: The file {FILE_NAME} does not exist")
